@@ -6,7 +6,7 @@ public class Factorial {
 
 		int factorial = 1;
 		
-		int num = 6 ; // 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
+		int num = 6 ; // 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720 
 		
 		for(int i= 1; i <= num; i ++)
 		{
