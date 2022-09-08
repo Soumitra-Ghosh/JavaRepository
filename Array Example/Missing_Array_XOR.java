@@ -1,3 +1,5 @@
+/* find the missing number with XOR */
+
 package com.array.app;
 
 public class Missing_Array_XOR {
