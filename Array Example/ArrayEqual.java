@@ -1,3 +1,4 @@
+ /* Write a program to check whether two given Arrays are equal, given both contains same data type and same length ?*/
 package com.array.app;
 
 import java.util.Arrays;
