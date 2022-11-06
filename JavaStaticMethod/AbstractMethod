@@ -1,0 +1,22 @@
+package com.app.java;
+
+abstract class Demo {
+	
+	abstract void display();
+}
+ public class AbstractMethod extends Demo
+ {
+	 void display()
+	 {
+		 System.out.println("soumitra");
+	 }
+
+
+	public static void main(String[] args) {
+		
+		Demo obj = new AbstractMethod();
+		obj.display();
+
+	}
+
+}
